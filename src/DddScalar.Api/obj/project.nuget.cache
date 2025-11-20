@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6wLIcPnY4CPsoZcRYDWPCwdJxRr3Q+wSdI2UbwT84Cck3E3Eur3+m6mN1EJihDw4nVmvO8EdYcUDh4OUOGFhg==",
+  "success": true,
+  "projectFilePath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/DddScalar.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/cristian/.nuget/packages/microsoft.aspnetcore.openapi/8.0.10/microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/cristian/.nuget/packages/scalar.aspnetcore/2.11.0/scalar.aspnetcore.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

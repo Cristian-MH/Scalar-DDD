@@ -1,0 +1,7 @@
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/Debug/net8.0/DddScalar.Api.csproj.AssemblyReference.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/Debug/net8.0/DddScalar.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/Debug/net8.0/DddScalar.Api.AssemblyInfoInputs.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/Debug/net8.0/DddScalar.Api.AssemblyInfo.cs
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/Debug/net8.0/DddScalar.Api.csproj.CoreCompileInputs.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/Debug/net8.0/DddScalar.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/Debug/net8.0/DddScalar.Api.MvcApplicationPartsAssemblyInfo.cache
