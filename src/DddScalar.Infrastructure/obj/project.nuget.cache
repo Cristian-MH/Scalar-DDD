@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E0kpaC40ac0BV4CQLEMOa98HbwbvG7FTp5t6wXlXZB41qusAN5aSZ8pHh6alk91IO9736QrHcrP3sKkp2F543A==",
+  "dgSpecHash": "Rovm8O2fgww=",
   "success": true,
-  "projectFilePath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Infrastructure/DddScalar.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Infrastructure\\DddScalar.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

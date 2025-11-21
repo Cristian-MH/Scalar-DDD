@@ -7,7 +7,7 @@ using Scalar.AspNetCore;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-builder.Services.AddOpenApi();
+// Scalar will provide the API reference. No Swagger/OpenAPI registration here.
 
 builder.Services.AddScoped<IOrderRepository, InMemoryOrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
@@ -16,7 +16,6 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
     app.MapScalarApiReference();
 }
 

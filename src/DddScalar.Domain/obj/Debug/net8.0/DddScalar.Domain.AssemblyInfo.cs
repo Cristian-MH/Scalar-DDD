@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DddScalar.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9adc26190f43ec5fd0bb893e1eb6c5a159047d36")]
 [assembly: System.Reflection.AssemblyProductAttribute("DddScalar.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DddScalar.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

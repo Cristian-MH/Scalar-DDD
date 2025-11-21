@@ -1,36 +1,47 @@
 {
   "format": 1,
   "restore": {
-    "/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/DddScalar.Api.csproj": {}
+    "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Api\\DddScalar.Api.csproj": {}
   },
   "projects": {
-    "/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/DddScalar.Api.csproj": {
+    "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Api\\DddScalar.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/DddScalar.Api.csproj",
+        "projectUniqueName": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Api\\DddScalar.Api.csproj",
         "projectName": "DddScalar.Api",
-        "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/DddScalar.Api.csproj",
-        "packagesPath": "/home/cristian/.nuget/packages/",
-        "outputPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Api/obj/",
+        "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Api\\DddScalar.Api.csproj",
+        "packagesPath": "C:\\Users\\CristianMartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/cristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\CristianMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ddcnexus.itsinternal.com/repository/nuget-rtg-platform-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-snapshots": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/DddScalar.Application.csproj": {
-                "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/DddScalar.Application.csproj"
+              "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Application\\DddScalar.Application.csproj": {
+                "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Application\\DddScalar.Application.csproj"
               },
-              "/home/cristian/Source/Scalar-DDD/src/DddScalar.Infrastructure/DddScalar.Infrastructure.csproj": {
-                "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Infrastructure/DddScalar.Infrastructure.csproj"
+              "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Infrastructure\\DddScalar.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Infrastructure\\DddScalar.Infrastructure.csproj"
               }
             }
           }
@@ -39,7 +50,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -73,34 +90,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/DddScalar.Application.csproj": {
+    "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Application\\DddScalar.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/DddScalar.Application.csproj",
+        "projectUniqueName": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Application\\DddScalar.Application.csproj",
         "projectName": "DddScalar.Application",
-        "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/DddScalar.Application.csproj",
-        "packagesPath": "/home/cristian/.nuget/packages/",
-        "outputPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/",
+        "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Application\\DddScalar.Application.csproj",
+        "packagesPath": "C:\\Users\\CristianMartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/cristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\CristianMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ddcnexus.itsinternal.com/repository/nuget-rtg-platform-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-snapshots": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/DddScalar.Domain.csproj": {
-                "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/DddScalar.Domain.csproj"
+              "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\DddScalar.Domain.csproj": {
+                "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\DddScalar.Domain.csproj"
               }
             }
           }
@@ -109,7 +137,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -130,27 +164,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/DddScalar.Domain.csproj": {
+    "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\DddScalar.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/DddScalar.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\DddScalar.Domain.csproj",
         "projectName": "DddScalar.Domain",
-        "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/DddScalar.Domain.csproj",
-        "packagesPath": "/home/cristian/.nuget/packages/",
-        "outputPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/",
+        "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\DddScalar.Domain.csproj",
+        "packagesPath": "C:\\Users\\CristianMartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/cristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\CristianMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ddcnexus.itsinternal.com/repository/nuget-rtg-platform-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-snapshots": {}
         },
         "frameworks": {
           "net8.0": {
@@ -162,7 +207,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -183,34 +234,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/cristian/Source/Scalar-DDD/src/DddScalar.Infrastructure/DddScalar.Infrastructure.csproj": {
+    "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Infrastructure\\DddScalar.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Infrastructure/DddScalar.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Infrastructure\\DddScalar.Infrastructure.csproj",
         "projectName": "DddScalar.Infrastructure",
-        "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Infrastructure/DddScalar.Infrastructure.csproj",
-        "packagesPath": "/home/cristian/.nuget/packages/",
-        "outputPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Infrastructure\\DddScalar.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\CristianMartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/cristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\CristianMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ddcnexus.itsinternal.com/repository/nuget-rtg-platform-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-releases": {},
+          "https://ngpnexus.realtimegaming.com/repository/nuget-rtg-snapshots": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/DddScalar.Domain.csproj": {
-                "projectPath": "/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/DddScalar.Domain.csproj"
+              "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\DddScalar.Domain.csproj": {
+                "projectPath": "C:\\Users\\CristianMartinez\\Desktop\\Personal\\Scalar-DDD\\src\\DddScalar.Domain\\DddScalar.Domain.csproj"
               }
             }
           }
@@ -219,7 +281,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -240,7 +308,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
