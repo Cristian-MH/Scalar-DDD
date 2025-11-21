@@ -1,0 +1,15 @@
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/bin/Debug/net8.0/DddScalar.Application.deps.json
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/bin/Debug/net8.0/DddScalar.Application.dll
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/bin/Debug/net8.0/DddScalar.Application.pdb
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/bin/Debug/net8.0/DddScalar.Domain.dll
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/bin/Debug/net8.0/DddScalar.Domain.pdb
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.csproj.AssemblyReference.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.AssemblyInfoInputs.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.AssemblyInfo.cs
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.csproj.CoreCompileInputs.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.csproj.CopyComplete
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.dll
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/refint/DddScalar.Application.dll
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/DddScalar.Application.pdb
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Application/obj/Debug/net8.0/ref/DddScalar.Application.dll

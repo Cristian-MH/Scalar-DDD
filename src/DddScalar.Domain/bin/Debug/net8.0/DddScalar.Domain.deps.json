@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DddScalar.Domain/1.0.0": {
+        "runtime": {
+          "DddScalar.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DddScalar.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

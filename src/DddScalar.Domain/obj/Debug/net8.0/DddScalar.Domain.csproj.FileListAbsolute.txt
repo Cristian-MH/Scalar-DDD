@@ -1,0 +1,11 @@
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/bin/Debug/net8.0/DddScalar.Domain.deps.json
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/bin/Debug/net8.0/DddScalar.Domain.dll
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/bin/Debug/net8.0/DddScalar.Domain.pdb
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/DddScalar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/DddScalar.Domain.AssemblyInfoInputs.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/DddScalar.Domain.AssemblyInfo.cs
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/DddScalar.Domain.csproj.CoreCompileInputs.cache
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/DddScalar.Domain.dll
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/refint/DddScalar.Domain.dll
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/DddScalar.Domain.pdb
+/home/cristian/Source/Scalar-DDD/src/DddScalar.Domain/obj/Debug/net8.0/ref/DddScalar.Domain.dll
