@@ -5,6 +5,15 @@ namespace DddScalar.Domain.Products
 {
     public class Product
     {
+        public Product(Guid id, decimal price)
+        {
+            if (id == Guid.Empty) throw new DomainException("El Id del producto no puede ser vacío.");
+            if (price < 0) throw new DomainException("El precio del producto no puede ser negativo.");
+
+            this.Id = id;
+            this.Price = price;
+            this.Name = string.Empty;
+        }
         public Guid Id { get; private set; }
         public string Name { get; private set; }
         public decimal Price { get; private set; }
